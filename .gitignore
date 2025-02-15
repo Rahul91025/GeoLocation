@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+/dist
+/build
+/tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Package manager lock files (optional)
+# If you're using yarn, you can ignore package-lock.json to avoid conflicts
+# /package-lock.json
+
+# npm-debug.log
+npm-debug.log*
+
+# IDE-specific files (you can add more depending on the IDE you're using)
+.vscode/
+.idea/
+
+# OS-specific files
+# Windows:
+Desktop.ini
+# macOS:
+.AppleDouble
+.LSOverride
+
+# Other
+/.yarn-integrity
